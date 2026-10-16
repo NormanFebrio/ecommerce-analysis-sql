@@ -6,6 +6,7 @@ This project analyzes transactional data from a public e-commerce dataset to unc
 **Dataset:** [TheLook E-Commerce](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce) (Google BigQuery Public Dataset)  
 **Tools:** Google BigQuery (SQL), Microsoft Excel (Visualization)  
 **Scope:** 2024–2025 transactional data
+**Note:** Query results may vary over time as TheLook E-commerce is a live-updated dataset. All insights below were pulled on Oct 16, 2026.
 
 
 ## Business Questions
