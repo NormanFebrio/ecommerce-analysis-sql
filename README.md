@@ -35,7 +35,7 @@ This project analyzes transactional data from a public e-commerce dataset to unc
 
 **Insight:** Revenue followed an overall upward trend in 2025, growing from $41.16K in January to $66.56K in December. However, two dips occurred in February and November, and a consistent increasing observed from June – October before a sharp declining in November by **-7.2%**.
 
-**So What:** The marketing team should investigate root causes of the three dip months, whether driven by seasonality, campaign gaps, or external factors.
+**So What:** The marketing team should investigate root causes of the two dip months, whether driven by seasonality, campaign gaps, or external factors.
 
 ---
 
